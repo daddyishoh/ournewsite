@@ -10,11 +10,30 @@ h1 {
  margin-top: 10%;   
 }
 
-.mainHeading {
-    
-    text-align: center;
+.rulesHeading {
+    text-decoration: underline;
+    color: #D90429;
 }
 
-.content {
-    display: none;
+.rules-btn {
+    color: #D90429 !important;
 }
+.btn {
+    background-color: #2B2D42 !important;
+    font-size: 1.5rem;
+}
+
+
+
+a {
+    color: #1EAEDB; }
+  a:hover {
+    color: #0FA0CE; }
+/* .mainHeading {
+    
+    text-align: center;
+} */
+
+/* .content {
+    display: none;
+} */
