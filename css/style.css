@@ -1,0 +1,20 @@
+body {
+    background-color: #edf2f4;
+}
+
+h1 {
+    font-family: 'Kalam', cursive;
+}
+
+.container {
+ margin-top: 10%;   
+}
+
+.mainHeading {
+    
+    text-align: center;
+}
+
+.content {
+    display: none;
+}
