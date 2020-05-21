@@ -39,3 +39,22 @@ a {
 /* .content {
     display: none;
 } */
+
+/* punishment page */
+.screen {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    /* justify-content: center; */
+    background-color: #8D99AE;
+    height: 50vh;
+    width: 100%;
+}
+
+.display-punishment {
+    margin: auto auto;
+}
+
+/* .punishment-btn {
+    justify-self: center;
+} */
