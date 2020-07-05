@@ -15,15 +15,13 @@
 
 // function showPage() {
 //     loginAuth.style.display = "none";
-//     content.style.display = "block";"Put ice in your privates","Naked workout",
+//     content.style.display = "block";"Put ice in your privates","Naked workout","Play with your privates and asshole all day without cumming","Stand in the corner naked",
 // }
 
 // punishment section
 const punishments = [
     "Spank yourself",
     "Put ice in your asshole",
-    "Play with your privates and asshole all day without cumming",
-    "Stand in the corner naked",
     "Drink water until you pee your pants"
 ]
 
